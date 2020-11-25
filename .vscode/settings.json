@@ -1,0 +1,18 @@
+{
+    "workbench.colorTheme": "Default Dark+",
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default"
+            },
+            "previewLimit": 50,
+            "server": "petrasmylilietuva.mysql.database.azure.com",
+            "port": 3306,
+            "driver": "MySQL",
+            "name": "getBooks",
+            "username": "egidijusagne@petrasmylilietuva",
+            "database": "defaultdb",
+            "password": "36studentsDB"
+        }
+    ]
+}
